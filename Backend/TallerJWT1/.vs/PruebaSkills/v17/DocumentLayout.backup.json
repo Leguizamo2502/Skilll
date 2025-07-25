@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NITRO\\AppData\\Roaming\\Microsoft\\UserSecrets\\21df090d-685f-4ad6-9601-557589bc2433\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A438D0F3-36F5-406D-B952-9B133C4E2947}|Web\\Web.csproj|solutionrelative:web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\services\\pizzasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\services\\pizzasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\dtos\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\interfaces\\ipizzasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipizzasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\services\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\services\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\interfaces\\iclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\business\\interfaces\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DC468D-0E87-4DDD-91E3-7DA557D9C734}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE71A828-70DB-4B1F-9817-DC8425C45044}|Data\\Data.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE71A828-70DB-4B1F-9817-DC8425C45044}|Data\\Data.csproj|solutionrelative:data\\services\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\dtos\\updatepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\updatepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE71A828-70DB-4B1F-9817-DC8425C45044}|Data\\Data.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE71A828-70DB-4B1F-9817-DC8425C45044}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\loginestatico\\staticuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\loginestatico\\staticuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\loginestatico\\staticuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\loginestatico\\staticuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|c:\\users\\nitro\\downloads\\skilll\\backend\\tallerjwt1\\entity\\loginestatico\\listuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87211960-F779-4361-AD45-DBD0102C042A}|Entity\\Entity.csproj|solutionrelative:entity\\loginestatico\\listuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\NITRO\\AppData\\Roaming\\Microsoft\\UserSecrets\\21df090d-685f-4ad6-9601-557589bc2433\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\21df090d-685f-4ad6-9601-557589bc2433\\secrets.json",
+              "ToolTip": "C:\\Users\\NITRO\\AppData\\Roaming\\Microsoft\\UserSecrets\\21df090d-685f-4ad6-9601-557589bc2433\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\21df090d-685f-4ad6-9601-557589bc2433\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:58:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:40:55.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:24:44.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\appsettings.Development.json",
+              "RelativeToolTip": "Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:24:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessGeneric.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:55:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:51:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdatePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\UpdatePedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\UpdatePedidoDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\UpdatePedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\UpdatePedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:41:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\CreatePedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\CreatePedidoDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\CreatePedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\CreatePedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:41:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Data\\Repository\\DataGeneric.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\DataGeneric.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Data\\Repository\\DataGeneric.cs",
+              "RelativeToolTip": "Data\\Repository\\DataGeneric.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:36:18.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Data\\Services\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Data\\Services\\PedidoRepository.cs",
+              "RelativeToolTip": "Data\\Services\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:36:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\DTOs\\PedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:35:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StaticUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\StaticUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\LoginEstatico\\StaticUserDto.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\StaticUserDto.cs",
+              "RelativeToolTip": "Entity\\LoginEstatico\\StaticUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:19:23.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:22.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ListUser.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\ListUser.cs",
+              "RelativeDocumentMoniker": "Entity\\LoginEstatico\\ListUser.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\ListUser.cs",
+              "RelativeToolTip": "Entity\\LoginEstatico\\ListUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:13:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaticUser.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\StaticUser.cs",
+              "RelativeDocumentMoniker": "Entity\\LoginEstatico\\StaticUser.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Entity\\LoginEstatico\\StaticUser.cs",
+              "RelativeToolTip": "Entity\\LoginEstatico\\StaticUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:13:15.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:06:27.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessBasic.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessBasic.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessBasic.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:00:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:58:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:58:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Web\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PizzasServices.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\PizzasServices.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PizzasServices.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\PizzasServices.cs",
+              "RelativeToolTip": "Business\\Services\\PizzasServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:16.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Business\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:06.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\ClienteServices.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ClienteServices.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Services\\ClienteServices.cs",
+              "RelativeToolTip": "Business\\Services\\ClienteServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:56:43.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPizzasService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IPizzasService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPizzasService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IPizzasService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPizzasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:56:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:56:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IClientesService.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IClientesService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IClientesService.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Downloads\\Skilll\\Backend\\TallerJWT1\\Business\\Interfaces\\IClientesService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IClientesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:56:17.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
